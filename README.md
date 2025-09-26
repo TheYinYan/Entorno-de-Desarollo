@@ -1,2 +1,2 @@
 ## Tema 1
-- [Tarea 1](/Tarea1/Readme.md)
+- [Tarea 2](/Tarea2/Readme.md)
